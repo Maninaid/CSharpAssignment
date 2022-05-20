@@ -1,0 +1,8 @@
+C:\C sharp Assignment\c sharp\Assignment 1\CSHARP-Assignment1\bin\Debug\CSHARP-Assignment1.exe.config
+C:\C sharp Assignment\c sharp\Assignment 1\CSHARP-Assignment1\bin\Debug\CSHARP-Assignment1.exe
+C:\C sharp Assignment\c sharp\Assignment 1\CSHARP-Assignment1\bin\Debug\CSHARP-Assignment1.pdb
+C:\C sharp Assignment\c sharp\Assignment 1\CSHARP-Assignment1\obj\Debug\CSHARP-Assignment1.csproj.AssemblyReference.cache
+C:\C sharp Assignment\c sharp\Assignment 1\CSHARP-Assignment1\obj\Debug\CSHARP-Assignment1.csproj.SuggestedBindingRedirects.cache
+C:\C sharp Assignment\c sharp\Assignment 1\CSHARP-Assignment1\obj\Debug\CSHARP-Assignment1.csproj.CoreCompileInputs.cache
+C:\C sharp Assignment\c sharp\Assignment 1\CSHARP-Assignment1\obj\Debug\CSHARP-Assignment1.exe
+C:\C sharp Assignment\c sharp\Assignment 1\CSHARP-Assignment1\obj\Debug\CSHARP-Assignment1.pdb
