@@ -72,7 +72,7 @@ namespace Casestudy
         Info info = new Info();
         public void Scenerio1()
         {
-            Student student = new Student(1011, "saikumar", "28/5/2000");
+            Student student = new Student(1011, "Mani", "28/5/2000");
             Student student1 = new Student(1023, "sai", "21/3/1999");
 
             info.display(student);
