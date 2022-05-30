@@ -1,8 +1,0 @@
-C:\Dotnet Assignment&Exam\Casestudy1\bin\Debug\Casestudy.exe.config
-C:\Dotnet Assignment&Exam\Casestudy1\bin\Debug\Casestudy.exe
-C:\Dotnet Assignment&Exam\Casestudy1\bin\Debug\Casestudy.pdb
-C:\Dotnet Assignment&Exam\Casestudy1\obj\Debug\Casestudy.csproj.AssemblyReference.cache
-C:\Dotnet Assignment&Exam\Casestudy1\obj\Debug\Casestudy.csproj.SuggestedBindingRedirects.cache
-C:\Dotnet Assignment&Exam\Casestudy1\obj\Debug\Casestudy.csproj.CoreCompileInputs.cache
-C:\Dotnet Assignment&Exam\Casestudy1\obj\Debug\Casestudy.exe
-C:\Dotnet Assignment&Exam\Casestudy1\obj\Debug\Casestudy.pdb
