@@ -3,7 +3,7 @@ use SQLSpecialAssignment
 
 
 
---Creating Client Table
+--Creating the Client Table
 
 
 
@@ -14,7 +14,7 @@ Business nvarchar(20) not null)
 
 
 
---Inserting Tthe values to clients table
+--Inserting the values to clients table
 insert into Clients
 values(1001,'ACME Utilities','Noida','contact@acmeutil.com',9567880032,'Manufacturing'),
 (1002,'Trackon Consultants','Mumbai','consult@trackon.com',8734210090,'Consultant'),
