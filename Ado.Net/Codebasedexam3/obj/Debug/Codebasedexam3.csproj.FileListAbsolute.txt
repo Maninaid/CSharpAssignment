@@ -1,0 +1,8 @@
+C:\Dotnet Assignment&Exam\Ado.Net\Codebasedexam3\bin\Debug\Codebasedexam3.exe.config
+C:\Dotnet Assignment&Exam\Ado.Net\Codebasedexam3\bin\Debug\Codebasedexam3.exe
+C:\Dotnet Assignment&Exam\Ado.Net\Codebasedexam3\bin\Debug\Codebasedexam3.pdb
+C:\Dotnet Assignment&Exam\Ado.Net\Codebasedexam3\obj\Debug\Codebasedexam3.csproj.AssemblyReference.cache
+C:\Dotnet Assignment&Exam\Ado.Net\Codebasedexam3\obj\Debug\Codebasedexam3.csproj.SuggestedBindingRedirects.cache
+C:\Dotnet Assignment&Exam\Ado.Net\Codebasedexam3\obj\Debug\Codebasedexam3.csproj.CoreCompileInputs.cache
+C:\Dotnet Assignment&Exam\Ado.Net\Codebasedexam3\obj\Debug\Codebasedexam3.exe
+C:\Dotnet Assignment&Exam\Ado.Net\Codebasedexam3\obj\Debug\Codebasedexam3.pdb
