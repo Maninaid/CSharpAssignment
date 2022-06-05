@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Codebasedexam3
+namespace Casestudy
 {
-    internal class Program
+    class Class2
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }
