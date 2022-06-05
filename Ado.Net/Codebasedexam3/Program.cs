@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using System.Data;
 using System.Data.SqlClient;
 
+<<<<<<< HEAD
 
 
 namespace Codebasedexam3
@@ -59,6 +60,60 @@ namespace Codebasedexam3
 
         public static SqlConnection getCon()
         {
+=======
+
+namespace Codebasedexam3
+{
+    internal class Program
+    { 
+    public static SqlConnection con;
+    public static SqlCommand cmd;
+
+    static void Main(string[] args)
+    {
+        EmpInsert();
+        Console.ReadLine();
+    }
+
+    static void EmpInsert()
+    {
+        try
+        {
+            con = getConnection();
+            Console.WriteLine("Enter Employee Details : ");
+            string empname, emptype;
+            float empsal;
+            Console.WriteLine("Enter Employee Name : ");
+            empname = Console.ReadLine();
+            Console.WriteLine("Enter Employee Salary : ");
+            empsal = float.Parse(Console.ReadLine());
+            Console.WriteLine("Enter Employee Type 'C' Or 'P' :");
+            emptype = Console.ReadLine();
+            cmd = new SqlCommand("execute dbo.empinsert  @empname, @empsal, @emptype");
+
+            cmd.Parameters.AddWithValue("@empname", empname);
+            cmd.Parameters.AddWithValue("@empsal", empsal);
+            cmd.Parameters.AddWithValue("@emptype", emptype);
+            cmd.Connection = con;
+            int no_ofrows = cmd.ExecuteNonQuery();
+            if (no_ofrows > 0)
+            {
+                Console.WriteLine("Inserted");
+            }
+            else
+            {
+                Console.WriteLine("Not Inserted");
+            }
+        }
+        catch (SqlException se)
+        {
+            Console.WriteLine(se.Message);
+        }
+    }
+
+    public static SqlConnection getCon()
+        {
+>>>>>>> 41d4842e89808fcee3096b929f994fd1ce4baf4c
             //con = new SqlConnection("data source=ADMW46ZLPC1575\\SQLEXPRESS;Initial Catalog=EmployeeManagementDB;" +
             //"user id=sa; password=Temp1234");
             con = new SqlConnection("data source=ADMW46ZLPC1575\\SQLEXPRESS;Initial Catalog=EmployeeManagementDB;" +
